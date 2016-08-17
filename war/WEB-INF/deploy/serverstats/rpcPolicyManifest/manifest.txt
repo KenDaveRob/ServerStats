@@ -1,0 +1,3 @@
+# Module serverstats
+# RPC service class, partial path of RPC policy file
+net.kenssoftware.client.service.StatService, A261F9C7EE9F9D0A69CF8AAE15FA89F7.gwt.rpc
